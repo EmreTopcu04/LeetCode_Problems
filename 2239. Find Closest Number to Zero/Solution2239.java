@@ -1,4 +1,4 @@
-class Solution {
+class Solution2239 {
 
     public static int findClosestNumber(int[] nums) {
         boolean containSameButPositive = false;
@@ -27,6 +27,6 @@ class Solution {
 }
 
 public static void main(String[] args) {
-    int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -1, -2, -3, -4, -5, -6, -7, -8, -9, -10 };
-    System.out.println(Solution.findClosestNumber(nums));
+    int[] nums = { 2, 3, -1, -4, 2 };
+    System.out.println(Solution2239.findClosestNumber(nums));
 }
