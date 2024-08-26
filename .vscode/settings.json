@@ -1,14 +1,15 @@
 {
    "java.project.sourcePaths": [
+      "69. Sqrt(x)",
+      "590. N-ary Tree Postorder Traversal",
       "392. Is Subsequence",
+      "238. Product of Array Except Self",
+      "228. Summary Ranges",
       "2239. Find Closest Number to Zero",
       "1768. Merge Strings Alternately",
+      "14. Longest Common Prefix",
       "13. Roman to Integer",
       "121. Best Time to Buy and Sell Stock",
-      "14. Longest Common Prefix",
-      "228. Summary Ranges",
-      "238. Product of Array Except Self",
-      "590. N-ary Tree Postorder Traversal",
-      "69. Sqrt(x)"
+      "56. Merge Intervals"
    ]
 }
